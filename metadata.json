@@ -1,0 +1,7 @@
+{
+  "name": "Editor Foto AI AFDAL GANTENG",
+  "description": "Transform ordinary photos into professional-grade product photography using Gemini AI. Featuring automatic prompt generation and high-quality image editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
